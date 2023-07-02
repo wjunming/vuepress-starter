@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-fc036150","path":"/guide/about.html","title":"wjunming.cn","lang":"en-US","frontmatter":{"sidebar":false},"excerpt":"","headers":[],"git":{},"filePathRelative":"guide/about.md"}');export{e as data};
